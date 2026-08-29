@@ -196,7 +196,7 @@ The other is a machine intentionally configured for us to practice against.
 Our environment might look like this:
 
 ```text
-Kali Linux
+       Kali Linux
     Attacker Machine
            |
            |
@@ -280,7 +280,7 @@ But if you are learning what an IP address and an open port actually mean, build
 Your first lab can be extremely simple:
 
 ```text
-             YOUR COMPUTER
+              YOUR COMPUTER
                    |
           Virtualization Software
                    |
@@ -297,14 +297,14 @@ Later, as we understand more concepts, we can expand the environment.
 For example:
 
 ```text
-           Cybersecurity Home Lab
-                     |
+            Cybersecurity Home Lab
+                      |
         +-------------+-------------+
         |             |             |
        Kali        Windows        Linux
         |             |             |
         +-------------+-------------+
-                     |
+                      |
                  Logs / SIEM
 ```
 
