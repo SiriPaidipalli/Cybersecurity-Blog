@@ -686,13 +686,13 @@ Modern TLS 1.3 encrypts more of the handshake than older TLS versions, so what r
 The important point is not to memorize every TLS handshake message yet. It is to recognize that HTTPS involves multiple layers:
 
 ```text
-HTTP
+ HTTP
   ↓
-TLS
+ TLS
   ↓
-TCP
+ TCP
   ↓
-IP
+  IP
 ```
 
 for traditional HTTP/1.1 and HTTP/2 over TLS/TCP.
