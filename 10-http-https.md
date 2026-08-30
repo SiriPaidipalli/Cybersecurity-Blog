@@ -1201,3 +1201,15 @@ Neither protocol should be reduced to a port number or a padlock icon.
 Understanding HTTP means being able to look beneath a webpage and recognize the requests, responses, identities, state, trust decisions, and application behavior that produced it. Understanding HTTPS means knowing exactly which part of that process TLS protects and which security responsibilities still belong to the application, browser, server, infrastructure, and people operating them.
 
 Once web traffic is viewed this way, HTTP becomes much more than a protocol used to load websites. It becomes one of the clearest ways to understand how modern applications communicate and where many of their security decisions succeed or fail.
+
+## From Web Traffic to the Systems Behind It
+
+Understanding HTTP and HTTPS shows us how applications communicate across the web, but security work rarely stops at the traffic itself. Behind those requests and responses are operating systems running web servers, applications, services, processes, configuration files, and logs.
+
+Linux appears throughout that environment. It powers a large portion of server infrastructure, forms the foundation of Kali Linux, and provides the command-line environment used by many security tools. Working comfortably with Linux makes it much easier to navigate systems, inspect files and permissions, examine processes, search logs, manage services, and understand what is happening on a machine.
+
+The goal is not to memorize every Linux command available. It is to understand the commands that repeatedly become useful when working with systems and security tools, what information they provide, and how to combine them when investigating a problem.
+
+Next:
+
+**Linux Commands You Actually Need for Cybersecurity Labs**
