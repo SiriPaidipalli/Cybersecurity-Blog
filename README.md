@@ -17,5 +17,11 @@ The collection starts with core foundations and gradually moves into networking,
 5. Ports & Protocols: What You're Actually Looking for When You Scan a Machine
 6. Nmap From Zero: Your First Network Scan
 7. Nmap Part 2: Finding Services, Versions, and Understanding the Results
+8. TCP vs UDP: Understanding What Your Scans Are Actually Testing
+9. Wireshark From Zero: Capturing and Reading Your First Packets
+10. HTTP & HTTPS: What Security Beginners Need to Understand
+11. Linux Commands You Actually Need for Cybersecurity Labs
+12. SSH Explained: Connecting to Your First Remote Machine
+
 
 More articles and hands-on work will be added as the series continues.
