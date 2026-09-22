@@ -22,6 +22,13 @@ The collection starts with core foundations and gradually moves into networking,
 10. HTTP & HTTPS: What Security Beginners Need to Understand
 11. Linux Commands You Actually Need for Cybersecurity Labs
 12. SSH Explained: Connecting to Your First Remote Machine
-
+13. DNS From a Security Perspective
+14. Firewalls: What They Actually Do to Your Traffic
+15. Vulnerability Scanning vs Enumeration vs Exploitation
+16. CVE, CVSS, CWE: How to Read Vulnerability Information
+17. Logs From Zero: What Security Analysts Actually Look For
+18. SIEM From Zero: From Raw Logs to Security Alerts
+19. Your First SOC Investigation: Alert → Evidence → Conclusion
+20. Putting Everything Together: Your First Security Home Lab
 
 More articles and hands-on work will be added as the series continues.
